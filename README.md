@@ -7,7 +7,7 @@
   It consist 3 python files which includes main.py, classification.py, common.py  and other files are svm file and README.
  
   DATASET: The Dataset folder contains images for training SVM models.It has 12 folders.
-  RESULT of the project is 
+  RESULT of the project is https://github.com/sruthi720/Traffic_sign_Detection/blob/master/demo.gif
  
  
    
