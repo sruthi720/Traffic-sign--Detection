@@ -12,6 +12,11 @@
    #### FILES :
    
    It consist 3 python files which includes,
+   MAIN.PY
+    
+   CLASSIFICATION.PY
+    
+   COMMON.PY
         and other files are svm file and README.
   
   #### DATASET :
