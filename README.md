@@ -12,12 +12,12 @@
    #### FILES :
    
    It consist 3 python files which includes,
-   MAIN.PY
+   [main.py](main.py)
     
-   CLASSIFICATION.PY
+   [classification.py](classification.py)
     
-   COMMON.PY
-        and other files are svm file and README.
+   [common.py](common.py)
+        and other files are svm file -> [data_svm.dat](data_svm.dat) and [README.md](README.md)
   
   #### DATASET :
   
