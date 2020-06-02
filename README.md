@@ -15,19 +15,19 @@
    
    It consist 3 python files which includes,
    
-   1. [main.py](main.py)
+   1. [main.py](main.py) -> starting of the program
     
-   2. [classification.py](classification.py)
+   2. [classification.py](classification.py) -> to classify the signs
     
-   3. [common.py](common.py)
+   3. [common.py](common.py) ->fuction for defining svm model
    
-        and other files are svm file -> [data_svm.dat](data_svm.dat) and [README.md](README.md)
+        and other files are svm file ,[data_svm.dat](data_svm.dat)-> svm model after training  and [README.md](README.md)
   
   #### DATASET :
   
   
    The Dataset folder contains images for training SVM models.It has 12 folders.
-   Dataset can be downloaded from this site -> https://github.com/hoanglehaithanh/Traffic-Sign-Detection/tree/master/dataset
+   Dataset can be downloaded from here -> https://github.com/hoanglehaithanh/Traffic-Sign-Detection/tree/master/dataset
    
    
    ![](0.png)
