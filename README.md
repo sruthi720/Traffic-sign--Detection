@@ -2,6 +2,8 @@
 
   This project https://github.com/sruthi720/Traffic_sign_Detection is a traffic signs detection and classification system on videos using OpenCV. 
    Image Processing techniques  used here to detect the circles and ellipses on the video by the contures.
+   
+   ![](all-signs.png)
   
   #### REQUIREMENTS :
   
@@ -26,7 +28,9 @@
   
    The Dataset folder contains images for training SVM models.It has 12 folders.
    Dataset can be downloaded from this site -> https://github.com/hoanglehaithanh/Traffic-Sign-Detection/tree/master/dataset
-    ![](all-signs.png)
+   
+   
+   ![](0.png)
   
   #### RESULT :
   
